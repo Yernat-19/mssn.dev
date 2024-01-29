@@ -1,89 +1,85 @@
 {
   "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
   "basics": {
-    "name": "Pavel Gasanov",
-    "label": "Software Engineer",
-    "email": "pogasanov@gmail.com",
-    "summary": "Pavel is a web engineer and senior full-stack developer with a master's degree in computer science. He has extensive experience in projects of all sizes, from small prototypes to large-scale online intranets, data         processing platforms, content management systems, and long-term React and Django assignments. Pavel is a passionate programmer who loves working in collaborative environments, always finding a common language among team members to bring optimal solutions to complex problems.",
+    "name": "Yernat Mussin",
+    "label": "Frontend Developer",
+    "email": "mussin0401@gmail.com",
+    "summary": "Ambitious Frontend developer with 2 years of experience in Vue and JS. Worked with complicated, legacy systems and have experience writing a frontend application from scratch. Thanks to my master's degree, I have a good foundation and understanding of related fields as computer vision, cryptography and block chain.",
     "profiles": [
       {
         "network": "Github",
-        "username": "pogasanov",
-        "url": "https://github.com/pogasanov/"
-      },
-      {
-        "network": "Twitter",
-        "username": "pogasanov",
-        "url": "https://twitter.com/pogasanov/"
+        "username": "mussin",
+        "url": "https://github.com/musssin/"
       },
       {
         "network": "LinkedIn",
-        "username": "pogasanov",
-        "url": "https://www.linkedin.com/in/pogasanov/"
-      },
-      {
-        "network": "Upwork",
-        "username": "pogasanov",
-        "url": "https://www.upwork.com/freelancers/~01ca324e515aed29c9/"
+        "username": "mussin",
+        "url": "https://www.linkedin.com/in/musssin/"
       }
     ]
   },
-  "education": [
+  "projects": [
     {
-      "institution": "Siberian Federal University",
-      "url": "https://www.sfu-kras.ru/en/",
-      "area": "Computer Engineering",
-      "studyType": "MSc",
-      "startDate": "2012-09-01",
-      "endDate": "2014-07-01"
+      "name": "Eurasian National University",
+      "description": "Eurasian National University",
+      "url": "https://www.enu.kz/kz",
+      "roles": [],
+      "keywords": [],
+      "highlights": [],
+      "startDate": "2022-09-01",
+      "endDate": "2024-07-01"
     },
     {
-      "institution": "Siberian Federal University",
-      "url": "https://www.sfu-kras.ru/en/",
-      "area": "Computer Engineering",
+      "name": "Eurasian National University",
+      "description": "Eurasian National University",
+      "url": "https://www.enu.kz/kz",
+      "roles": [],
+      "keywords": [],
+      "highlights": [],
+      "startDate": "2022-09-01",
+      "endDate": "2024-07-01"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Eurasian National University",
+      "url": "https://www.enu.kz/kz",
+      "area": "Computer Science",
+      "studyType": "Master",
+      "startDate": "2022-09-01",
+      "endDate": "2024-07-01"
+    },
+    {
+      "institution": "Eurasian National University",
+      "url": "https://www.enu.kz/kz",
+      "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2007-09-01",
-      "endDate": "2012-07-01"
+      "startDate": "2018-09-01",
+      "endDate": "2022-07-01"
     }
   ],
   "skills": [
     {
       "name": "Front-end",
-      "level": "Senior",
-      "keywords": ["JavaScript", "TypeScript", "NextJS", "ReactJS", "Gatsby.js", "Jest"]
-    },
-    {
-      "name": "Back-end",
-      "level": "Senior",
-      "keywords": [
-        "NextJS",
-        "Prisma",
-        "NodeJS",
-        "PostgreSQL"
-      ]
-    },
-    {
-      "name": "CMS",
-      "level": "Proficient",
-      "keywords": ["Strapi", "Contentful", "Sanity", "Wordpress"]
-    },
-    {
-      "name": "DevOps",
-      "level": "Proficient",
-      "keywords": ["AWS", "Vercel", "Docker", "Serverless"]
+      "level": "Middle",
+      "keywords": ["JavaScript", "TypeScript", "VueJS", "NuxtJS", "Pinia"]
     }
   ],
   "languages": [
     {
-      "language": "Russian",
+      "language": "Kazakh",
       "fluency": "Native speaker"
     },
     {
       "language": "English",
+      "fluency": "Intermediate"
+    },
+    {
+      "language": "Russian",
       "fluency": "Fluent"
     }
   ],
   "meta": {
-    "lastModified": "2023-06-05T4:02:42+06:00"
+    "lastModified": "2024-01-29T4:02:42+06:00"
   }
 }

@@ -6,6 +6,7 @@ import { Languages } from "@/components/Languages";
 import { Skills } from "@/components/Skills";
 import { Education } from "@/components/Education";
 import { Actions } from "@/components/Actions";
+import {Projects} from "@/components/Projects";
 
 export default function Home() {
   return (
@@ -26,6 +27,10 @@ export default function Home() {
       <Section label="About">
         {data.basics.summary}
       </Section>
+
+      {/*<Section label="Projects">*/}
+      {/*  <Projects projects={data.projects}/>*/}
+      {/*</Section>*/}
 
       <Section label="Education">
         <Education education={data.education}/>
