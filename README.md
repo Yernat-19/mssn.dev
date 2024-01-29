@@ -1,6 +1,6 @@
 # Resume
 
-Heavily based on [Like Zheng resume](https://github.com/ekil1100/resume)
+Heavily based on [Like Zheng resume](https://github.com/ekil1100/resume) and [Like Zheng resume](https://github.com/ekil1100/resume)
 
 Uses [JSON Resume schema](https://jsonresume.org/)
 
